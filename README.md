@@ -1,7 +1,7 @@
 # Java-utility-library-for-Java-standard-libraries
 Java utility library for Java standard libraries
 
-This project provides various utilities (static methods) that work with built-in Java standard libraries. No external or third-party library is required. 
+This project provides various utilities (static methods) that work with built-in Java standard libraries. 
 
 Some examples are:
 
