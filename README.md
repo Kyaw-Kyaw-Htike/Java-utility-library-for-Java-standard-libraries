@@ -48,6 +48,7 @@ Some examples are:
 - Pretty-print 1D java List.
 - Pretty-print 1D array of String objects.
 
+https://kyaw.xyz/2017/12/18/java-utility-library-java-standard-libraries
 
 Copyright (C) 2017 Kyaw Kyaw Htike @ Ali Abdul Ghafur. All rights reserved.
 
